@@ -1,1 +1,2 @@
-# sophie.github.io
+# **Sophie Favier**
+## Junior Web Developer
